@@ -4,7 +4,6 @@ PocketDrum is a wearable virtual drum kit that transforms arm movements into rea
 
 Using two Arduino Nano boards equipped with MPU6050 motion sensors, the system detects arm acceleration and orientation, then converts these gestures into MIDI messages. The MIDI events are sent to Cakewalk, where the SI-Drum Kit virtual instrument produces realistic drum sounds.
 
----
 
 
 
