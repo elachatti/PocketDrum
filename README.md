@@ -6,11 +6,7 @@ Using two Arduino Nano boards equipped with MPU6050 motion sensors, the system d
 
 ---
 
-## 🎥 Demo
 
-> *(Add a GIF or YouTube link here)*
-
----
 
 # Features
 
